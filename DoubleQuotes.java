@@ -1,4 +1,4 @@
-public class public class DoubleQuotes{
+public class DoubleQuotes{
 
 public static void main(String[] args) {
 
