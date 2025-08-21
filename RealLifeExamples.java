@@ -10,7 +10,7 @@ int studentID = 15;
 
 int studentAge = 23;
 
-float student Fee = 75.25f;
+float studentFee = 75.25f;
 
 char studentGrade = 'B';
 
