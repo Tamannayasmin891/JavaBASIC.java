@@ -4,7 +4,7 @@ public static void main(String[] args) {
 
 // Good
 
-int minutes PerHour 60;
+int minutes PerHour = 60;
 
 // OK, but not so easy to understand what m actually is
 
