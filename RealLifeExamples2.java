@@ -12,7 +12,7 @@ int area;
 
 // Calculate the area of a rectangle
 
-area length * width;
+area = length * width;
 
 // Print variables
 
