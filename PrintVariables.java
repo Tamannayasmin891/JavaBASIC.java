@@ -6,6 +6,6 @@ int x = 5;
 
 int y = 6;
 
-System.out.println (x + y) // Print the value of x + y
+System.out.println (x + y); // Print the value of x + y
  }
 }
