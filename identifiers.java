@@ -10,7 +10,7 @@ int minutesPerHour = 60;
 
 int m = 60;
 
-System.out.println(minutes PerHour);
+System.out.println(minutesPerHour);
 
 System.out.println(m);
  }
